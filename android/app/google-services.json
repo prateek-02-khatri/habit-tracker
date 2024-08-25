@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1095509510125",
+    "firebase_url": "https://habit-tracker-cd94a-default-rtdb.firebaseio.com",
+    "project_id": "habit-tracker-cd94a",
+    "storage_bucket": "habit-tracker-cd94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095509510125:android:5617ffe073cb0b3ec549e4",
+        "android_client_info": {
+          "package_name": "com.example.habit_tracker_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6H8B-p0hKxJwOwkbboN-eVOOZx1dSUX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
